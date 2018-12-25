@@ -46,6 +46,8 @@
         <item name="android:windowSoftInputMode">stateUnspecified|adjustUnspecified</item>
     </style>
 
+    <style name="DocumentsAlertDialogTheme" parent="@android:style/Theme.Material.Light.Dialog.MinWidth" />
+
     <style name="TrimmedHorizontalProgressBar" parent="android:Widget.Material.ProgressBar.Horizontal">
         <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal_material_trimmed</item>
         <item name="android:minHeight">3dp</item>
